@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "输入收款金额"; ObjectID = "4YH-04-196"; */
+"4YH-04-196.placeholder" = "输入收款金额";
+
+/* Class = "UILabel"; text = "CNY"; ObjectID = "Aug-Ec-e6U"; */
+"Aug-Ec-e6U.text" = "CNY";
+
+/* Class = "UILabel"; text = "50.00"; ObjectID = "nb1-6C-xiC"; */
+"nb1-6C-xiC.text" = "50.00";
+
+/* Class = "UILabel"; text = "Money"; ObjectID = "tjM-Ww-4zL"; */
+"tjM-Ww-4zL.text" = "Money";
